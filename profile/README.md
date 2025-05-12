@@ -18,8 +18,6 @@ Visit our official website for more information:
 
 🌐 [Traips App](https://traipsapp.com)
 
----
-
 <!-- ## 📬 Follow Us
 
 Stay updated on our latest developments:
